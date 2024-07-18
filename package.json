@@ -1,0 +1,32 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "description": "This is react program",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumar111992/arunkumar-react.git"
+  },
+  "keywords": [],
+  "author": "Arunkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunkumar111992/arunkumar-react/issues"
+  },
+  "homepage": "https://github.com/Arunkumar111992/arunkumar-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
